@@ -57,6 +57,7 @@ This project is aimed at providing a visualized, interactive analysis of the wor
 9) Of all 18 industries analysed, the technology category ranks topmost with a total of 34 billionaires. 
 
 ➤RECOMMENDATONS:
+
 ⚓ Structures are to be put in place to enable women thrive better in economy.
 
 ⚓ The youngest billionaire, 18 is reasonably poor, considering the advancement of technology in the industrial/ ITC age. 
